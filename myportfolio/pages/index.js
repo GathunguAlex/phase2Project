@@ -16,7 +16,7 @@ export default function Home() {
       <nav>
        <h1>My Portfolio</h1>
        <il>
-        <li></li>
+        <li> BsFillMoonStarsFill</li>
         <li><a href="linkdin">cv</a></li>
        </il>
       </nav>
